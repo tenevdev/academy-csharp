@@ -1,0 +1,2 @@
+C# is a programming language, while the .NET Framework is an application framework library created by Microsoft.
+.NET applications can be written in different languages and C# is one of them.

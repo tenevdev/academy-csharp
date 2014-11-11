@@ -1,0 +1,7 @@
+The most popular programming languages nowadays are C, Java, Objective-C, and C++
+Source : http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html
+
+There are many differences between them and C#. They can all be treated as object-oriented, though.
+C and C++ offer better performance and portability but have less built-in features, which help the programmer
+Java is the non-Microsoft rival of C# and offers many of its advantages
+Objective-C is based on C and is less typesafe and managed than C# and Java. It just let's you do whatever you want and experience the consequences.
