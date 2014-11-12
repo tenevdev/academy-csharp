@@ -29,7 +29,7 @@ class FallingRocks
     private static Stopwatch watch = new Stopwatch();
     private static long highScore = 0;
 
-    private const string SONG_NAME = "POA.wav";
+    private const string SONG_NAME = "space.wav";
     private static SoundPlayer player = new SoundPlayer(SONG_NAME);
 
     private static string GenerateRocksLine(int length = 20)
