@@ -25,6 +25,7 @@ namespace _11.AddPolynomials
 			}
             return sum;
         }
+
         static void Main(string[] args)
         {
             Console.Write("Input n: ");
